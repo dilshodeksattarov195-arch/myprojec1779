@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenfalculate",
+        "uuid": 12097200,
+        "checksum": "8ut5c"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
